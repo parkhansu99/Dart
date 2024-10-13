@@ -19,12 +19,8 @@ xml_text = dart.document('20220816001711')
 #     file.write(xml_text)  # xml_text 내용을 파일에 쓰기
 
 # XML 텍스트 확인 및 저장
-if isinstance(xml_text, str):  # xml_text가 문자열인지 확인
-    with open('document_20220816001711.html', 'w', encoding='utf-8') as file:
-        file.write(xml_text)  # xml_text 내용을 HTML 파일로 저장
-    print("HTML 파일이 성공적으로 저장되었습니다.")
-else:
-    print("HTML 콘텐츠가 문자열이 아닙니다.")
+with open('document_20220816001711.html', 'w', encoding='utf-8') as file:
+    file.write(xml_text)  # xml_text 내용을 HTML 파일로 저장
 
 print(dart.find_corp_code('삼성전자'))
 

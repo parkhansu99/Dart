@@ -21,6 +21,7 @@ html_content = financial_data.to_html(index=False)  # DataFrame을 HTML로 변�
 html_file_path = 'financial_report.html'  # 저장할 파일명 지정
 with open(html_file_path, 'w', encoding='utf-8') as f:
     f.write(html_content)  # HTML 내용을 파일에 쓰기
+financial_data.to_csv('financial_report.csv', index=False, encoding='utf-8-sig') 
 
 print(f"재무 상태가 '{html_file_path}'로 저장되었습니다.")
 

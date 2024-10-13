@@ -1,0 +1,5021 @@
+
+
+
+
+
+
+
+
+
+
+<!--목록 -->
+<div class="tbTitle">
+ 	<h4>
+		
+			
+			
+			
+			
+	        
+	        
+			전체
+		
+		&nbsp;<span class="txtCB" id="txtCB">4,904</span>건
+		
+			
+				
+					
+					(2024년 08월 14일)
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		
+	</h4>
+	
+	<div class="sort" >
+		
+	    	
+			
+			
+		
+		
+			
+				<a id="time" name="sort" onclick="setOrder(this);" class="downOn" href="#none" data-order="desc" title="시간 내림차순">시간</a>
+				<a id="crp" name="sort"  onclick="setOrder(this);" class="upOff" href="#none" data-order="asc" title="회사명 올림차순">회사명</a>
+				<a id="rpt" name="sort"  onclick="setOrder(this);" class="upOff" href="#none" data-order="asc" title="보고서명 올림차순">보고서명</a>
+			
+			
+			
+			
+		
+	</div>
+</div>
+<div class="tbListInner" >
+	<table class="tbList" summary="시간,공시대상회사,보고서명,제출인,접수일자,비고 순으로 되어있습니다.">
+		<caption>유가증권시장 목록</caption>
+		<colgroup>
+			<col style="width:7%">
+			<col style="width:24%">
+			<col style="width:auto">
+			<col style="width:13%">
+			<col style="width:11%">
+			<col style="width:8%">
+		</colgroup>
+		<thead>
+			<tr>
+				<th scope="row"><label for="inpSample00">시간</label></th>
+				<th scope="row"><label for="inpSample00">공시대상회사</label></th>
+				<th scope="row"><label for="inpSample00">보고서명</label></th>
+				<th scope="row"><label for="inpSample00">제출인</label></th>
+				<th scope="row"><label for="inpSample00">접수일자</label></th>
+				<th scope="row"><label for="inpSample00">비고</label></th>
+			</tr>
+		</thead>
+		
+			
+				<tbody>
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:59
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00490434', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="유진로지스틱스 기업개황 새창" >
+										유진로지스틱스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000113"  onclick="openReportViewer('20240814000113'); return false;" id="r_20240814000113"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="유진로지스틱스">유진로지스틱스</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:58
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01089970', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="씨제이브리딩 기업개황 새창" >
+										씨제이브리딩
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000112"  onclick="openReportViewer('20240814000112'); return false;" id="r_20240814000112"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="씨제이브리딩">씨제이브리딩</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:57
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00661476', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이치디현대스포츠 기업개황 새창" >
+										에이치디현대스포츠
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000111"  onclick="openReportViewer('20240814000111'); return false;" id="r_20240814000111"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="에이치디현대스포츠">에이치디현대스포츠</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:57
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01846676', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="단양레일코스터 기업개황 새창" >
+										단양레일코스터
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000109"  onclick="openReportViewer('20240814000109'); return false;" id="r_20240814000109"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="단양레일코스터">단양레일코스터</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:55
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00113544', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="대한화섬 기업개황 새창" >
+										대한화섬
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000106"  onclick="openReportViewer('20240814000106'); return false;" id="r_20240814000106"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="대한화섬">대한화섬</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:54
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00916437', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="만도브로제 기업개황 새창" >
+										만도브로제
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000105"  onclick="openReportViewer('20240814000105'); return false;" id="r_20240814000105"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="만도브로제">만도브로제</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:54
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00820565', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="티캐스트 기업개황 새창" >
+										티캐스트
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000104"  onclick="openReportViewer('20240814000104'); return false;" id="r_20240814000104"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="티캐스트">티캐스트</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:54
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00260745', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="SCI평가정보 기업개황 새창" >
+										SCI평가정보
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000102"  onclick="openReportViewer('20240814000102'); return false;" id="r_20240814000102"
+									title="반기보고서 공시뷰어 새창" >반기보고서
+									 (2024.06)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="SCI평가정보">SCI평가정보</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:53
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('01390344', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="HD현대중공업 기업개황 새창" >
+										HD현대중공업
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000101"  onclick="openReportViewer('20240814000101'); return false;" id="r_20240814000101"
+									title="동일인등출자계열회사와의상품ㆍ용역거래변경 공시뷰어 새창" >동일인등출자계열회사와의상품ㆍ용역거래변경
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="HD현대중공업">HD현대중공업</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:53
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01529186', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="동북아엘엔지허브터미널 기업개황 새창" >
+										동북아엘엔지허브터미널
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000100"  onclick="openReportViewer('20240814000100'); return false;" id="r_20240814000100"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="동북아엘엔지허브터미널">동북아엘엔지허브터미널</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:53
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01477944', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="우리 기업개황 새창" >
+										우리
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000099"  onclick="openReportViewer('20240814000099'); return false;" id="r_20240814000099"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="우리">우리</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+						
+							
+							
+								
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:53
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00360036', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="백금T&A 기업개황 새창" >
+										백금T&A
+									</a>
+								</span>
+								<a href="http://www.bgtna.com" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000098"  onclick="openReportViewer('20240814000098'); return false;" id="r_20240814000098"
+									title="반기보고서 공시뷰어 새창" >반기보고서
+									 (2024.06)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="백금T&A">백금T&A</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:53
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00172097', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="고려저축은행 기업개황 새창" >
+										고려저축은행
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000097"  onclick="openReportViewer('20240814000097'); return false;" id="r_20240814000097"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="고려저축은행">고려저축은행</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:50
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00372271', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="이채널 기업개황 새창" >
+										이채널
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000096"  onclick="openReportViewer('20240814000096'); return false;" id="r_20240814000096"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이채널">이채널</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:50
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00980043', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="비큐AI 기업개황 새창" >
+										비큐AI
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000095"  onclick="openReportViewer('20240814000095'); return false;" id="r_20240814000095"
+									title="반기보고서 공시뷰어 새창" >반기보고서
+									 (2024.06)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="비큐AI">비큐AI</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:50
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01359790', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="연희파크 기업개황 새창" >
+										연희파크
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000094"  onclick="openReportViewer('20240814000094'); return false;" id="r_20240814000094"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="연희파크">연희파크</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:50
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00160047', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한국앤컴퍼니 기업개황 새창" >
+										한국앤컴퍼니
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000093"  onclick="openReportViewer('20240814000093'); return false;" id="r_20240814000093"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="한국앤컴퍼니">한국앤컴퍼니</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:49
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00613035', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="후레쉬서브 기업개황 새창" >
+										후레쉬서브
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000092"  onclick="openReportViewer('20240814000092'); return false;" id="r_20240814000092"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="후레쉬서브">후레쉬서브</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:49
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01047761', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="삼우종합건축사사무소 기업개황 새창" >
+										삼우종합건축사사무소
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000091"  onclick="openReportViewer('20240814000091'); return false;" id="r_20240814000091"
+									title="동일인등출자계열회사와의상품ㆍ용역거래변경 공시뷰어 새창" >동일인등출자계열회사와의상품ㆍ용역거래변경
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="삼우종합건축사사무소">삼우종합건축사사무소</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:49
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00259022', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엘에스빌드윈 기업개황 새창" >
+										엘에스빌드윈
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000090"  onclick="openReportViewer('20240814000090'); return false;" id="r_20240814000090"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="엘에스빌드윈">엘에스빌드윈</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:49
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00186498', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="코리아니켈 기업개황 새창" >
+										코리아니켈
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000088"  onclick="openReportViewer('20240814000088'); return false;" id="r_20240814000088"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="코리아니켈">코리아니켈</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:47
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01160363', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에코프로비엠 기업개황 새창" >
+										에코프로비엠
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000086"  onclick="openReportViewer('20240814000086'); return false;" id="r_20240814000086"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="에코프로비엠">에코프로비엠</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:46
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00446822', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="진로소주 기업개황 새창" >
+										진로소주
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000083"  onclick="openReportViewer('20240814000083'); return false;" id="r_20240814000083"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="진로소주">진로소주</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:46
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00450931', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="우양에이치씨 기업개황 새창" >
+										우양에이치씨
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000082"  onclick="openReportViewer('20240814000082'); return false;" id="r_20240814000082"
+									title="반기보고서 공시뷰어 새창" >반기보고서
+									 (2024.06)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="우양에이치씨">우양에이치씨</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:46
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00896559', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="삼척블루파워 기업개황 새창" >
+										삼척블루파워
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000081"  onclick="openReportViewer('20240814000081'); return false;" id="r_20240814000081"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="삼척블루파워">삼척블루파워</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:45
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00230382', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="교보리얼코 기업개황 새창" >
+										교보리얼코
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000080"  onclick="openReportViewer('20240814000080'); return false;" id="r_20240814000080"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="교보리얼코">교보리얼코</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:44
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00223373', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="스테코 기업개황 새창" >
+										스테코
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000078"  onclick="openReportViewer('20240814000078'); return false;" id="r_20240814000078"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="스테코">스테코</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:43
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01568440', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="로터스프라이빗에쿼티 기업개황 새창" >
+										로터스프라이빗에쿼티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000077"  onclick="openReportViewer('20240814000077'); return false;" id="r_20240814000077"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="로터스프라이빗에쿼티">로터스프라이빗에쿼티</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:43
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01431818', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="티디에프 기업개황 새창" >
+										티디에프
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000076"  onclick="openReportViewer('20240814000076'); return false;" id="r_20240814000076"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="티디에프">티디에프</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:43
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00164609', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="HD현대미포 기업개황 새창" >
+										HD현대미포
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000074"  onclick="openReportViewer('20240814000074'); return false;" id="r_20240814000074"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="HD현대미포">HD현대미포</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:43
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00537559', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이알투자증권 기업개황 새창" >
+										케이알투자증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000075"  onclick="openReportViewer('20240814000075'); return false;" id="r_20240814000075"
+									title="반기보고서 공시뷰어 새창" >반기보고서
+									 (2024.06)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="케이알투자증권">케이알투자증권</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:42
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00506009', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="돈돈팜 기업개황 새창" >
+										돈돈팜
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000073"  onclick="openReportViewer('20240814000073'); return false;" id="r_20240814000073"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="돈돈팜">돈돈팜</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:42
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01521801', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="빌드윈그린에너지태양광발전 기업개황 새창" >
+										빌드윈그린에너지태양광발전
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000072"  onclick="openReportViewer('20240814000072'); return false;" id="r_20240814000072"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="빌드윈그린에너지태양광발전">빌드윈그린에너지태양광발전</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:42
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01479915', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="포스코모빌리티솔루션 기업개황 새창" >
+										포스코모빌리티솔루션
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000071"  onclick="openReportViewer('20240814000071'); return false;" id="r_20240814000071"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="포스코모빌리티솔루션">포스코모빌리티솔루션</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:41
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00537610', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한화손해사정 기업개황 새창" >
+										한화손해사정
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000070"  onclick="openReportViewer('20240814000070'); return false;" id="r_20240814000070"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="한화손해사정">한화손해사정</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:41
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01682281', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치우리뉴딜그로쓰알파제1호사모투자 기업개황 새창" >
+										엔에이치우리뉴딜그로쓰알파제1호사모투자
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000069"  onclick="openReportViewer('20240814000069'); return false;" id="r_20240814000069"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="엔에이치우리뉴딜그로쓰알파제1호사모투자">엔에이치우리뉴딜그로쓰알파제1호사모투자</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:40
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00937324', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한국타이어앤테크놀로지 기업개황 새창" >
+										한국타이어앤테크놀로지
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000068"  onclick="openReportViewer('20240814000068'); return false;" id="r_20240814000068"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="한국타이어앤테크놀로지">한국타이어앤테크놀로지</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:39
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00627117', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="리뉴에너지충북 기업개황 새창" >
+										리뉴에너지충북
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000067"  onclick="openReportViewer('20240814000067'); return false;" id="r_20240814000067"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="리뉴에너지충북">리뉴에너지충북</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:39
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00141608', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="오리엔탈정공 기업개황 새창" >
+										오리엔탈정공
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000066"  onclick="openReportViewer('20240814000066'); return false;" id="r_20240814000066"
+									title="반기보고서 공시뷰어 새창" >반기보고서
+									 (2024.06)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="오리엔탈정공">오리엔탈정공</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:39
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00370769', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="쉬프트정보통신 기업개황 새창" >
+										쉬프트정보통신
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000065"  onclick="openReportViewer('20240814000065'); return false;" id="r_20240814000065"
+									title="반기보고서 공시뷰어 새창" >반기보고서
+									 (2024.06)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="쉬프트정보통신">쉬프트정보통신</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:39
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00308896', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="셀피글로벌 기업개황 새창" >
+										셀피글로벌
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000064"  onclick="openReportViewer('20240814000064'); return false;" id="r_20240814000064"
+									title="주식등의대량보유상황보고서(일반) 공시뷰어 새창" >주식등의대량보유상황보고서(일반)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="셀피글로벌주주1호조합">셀피글로벌주주1호조합</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:38
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01654899', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="고흥에너지 기업개황 새창" >
+										고흥에너지
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000063"  onclick="openReportViewer('20240814000063'); return false;" id="r_20240814000063"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="고흥에너지">고흥에너지</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:38
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00136448', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신신제약 기업개황 새창" >
+										신신제약
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000062"  onclick="openReportViewer('20240814000062'); return false;" id="r_20240814000062"
+									title="반기보고서 공시뷰어 새창" >반기보고서
+									 (2024.06)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="신신제약">신신제약</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:37
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00876193', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="아이앤케이신항만 기업개황 새창" >
+										아이앤케이신항만
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000061"  onclick="openReportViewer('20240814000061'); return false;" id="r_20240814000061"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="아이앤케이신항만">아이앤케이신항만</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:37
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01418589', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="지엔엠홀딩스 기업개황 새창" >
+										지엔엠홀딩스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000060"  onclick="openReportViewer('20240814000060'); return false;" id="r_20240814000060"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="지엔엠홀딩스">지엔엠홀딩스</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:36
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00876193', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="아이앤케이신항만 기업개황 새창" >
+										아이앤케이신항만
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000059"  onclick="openReportViewer('20240814000059'); return false;" id="r_20240814000059"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="아이앤케이신항만">아이앤케이신항만</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:36
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01627549', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="코리아에너지 기업개황 새창" >
+										코리아에너지
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000058"  onclick="openReportViewer('20240814000058'); return false;" id="r_20240814000058"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="코리아에너지">코리아에너지</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:35
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00648873', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이치엘로지스앤코 기업개황 새창" >
+										에이치엘로지스앤코
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000057"  onclick="openReportViewer('20240814000057'); return false;" id="r_20240814000057"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="에이치엘로지스앤코">에이치엘로지스앤코</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:35
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01387623', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치뉴그로쓰사모투자 기업개황 새창" >
+										엔에이치뉴그로쓰사모투자
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000056"  onclick="openReportViewer('20240814000056'); return false;" id="r_20240814000056"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="엔에이치뉴그로쓰사모투자">엔에이치뉴그로쓰사모투자</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:34
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00241388', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="디비자산운용 기업개황 새창" >
+										디비자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000055"  onclick="openReportViewer('20240814000055'); return false;" id="r_20240814000055"
+									title="철회신고서(DB지수연계더블플러스증권투자신탁SEK-107호[ELS-파생형]) 공시뷰어 새창" >철회신고서
+									
+		  							(DB지수연계더블플러스증권투자신탁SEK-107호[ELS-파생형])
+								</a>
+							</td>
+							<td class="tL ellipsis" title="디비자산운용">디비자산운용</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:33
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00140177', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="GS리테일 기업개황 새창" >
+										GS리테일
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000054"  onclick="openReportViewer('20240814000054'); return false;" id="r_20240814000054"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="GS리테일">GS리테일</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:33
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01051001', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치아주아이비중소중견그로쓰2013사모투자전문회사 기업개황 새창" >
+										엔에이치아주아이비중소중견그로쓰2013사모투자전문회사
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000053"  onclick="openReportViewer('20240814000053'); return false;" id="r_20240814000053"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="엔에이치아주아이비중소중견그로쓰2013사모투자전문회사">엔에이치아주아이비중소중견그로쓰2013사모투자전문회사</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:32
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00310280', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="지마켓 기업개황 새창" >
+										지마켓
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000052"  onclick="openReportViewer('20240814000052'); return false;" id="r_20240814000052"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="지마켓">지마켓</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:31
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01659919', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="농업회사법인산이 기업개황 새창" >
+										농업회사법인산이
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000051"  onclick="openReportViewer('20240814000051'); return false;" id="r_20240814000051"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="농업회사법인산이">농업회사법인산이</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:29
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00139214', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="삼성화재해상보험 기업개황 새창" >
+										삼성화재해상보험
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814800038"  onclick="openReportViewer('20240814800038'); return false;" id="r_20240814800038"
+									title="연결재무제표기준영업(잠정)실적(공정공시) 공시뷰어 새창" >연결재무제표기준영업(잠정)실적(공정공시)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="삼성화재해상보험">삼성화재해상보험</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:28
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01854091', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="희망농업혁신사모투자 기업개황 새창" >
+										희망농업혁신사모투자
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000048"  onclick="openReportViewer('20240814000048'); return false;" id="r_20240814000048"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="희망농업혁신사모투자">희망농업혁신사모투자</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:28
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01557736', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="중앙데일리 기업개황 새창" >
+										중앙데일리
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000047"  onclick="openReportViewer('20240814000047'); return false;" id="r_20240814000047"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="중앙데일리">중앙데일리</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:27
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00208514', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="현대캐피탈 기업개황 새창" >
+										현대캐피탈
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000046"  onclick="openReportViewer('20240814000046'); return false;" id="r_20240814000046"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="현대캐피탈">현대캐피탈</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:24
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00387547', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한국네트웍스 기업개황 새창" >
+										한국네트웍스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000043"  onclick="openReportViewer('20240814000043'); return false;" id="r_20240814000043"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="한국네트웍스">한국네트웍스</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:24
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01808287', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="두산지오솔루션 기업개황 새창" >
+										두산지오솔루션
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000042"  onclick="openReportViewer('20240814000042'); return false;" id="r_20240814000042"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="두산지오솔루션">두산지오솔루션</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:23
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00800394', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이치에스효성토요타 기업개황 새창" >
+										에이치에스효성토요타
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000040"  onclick="openReportViewer('20240814000040'); return false;" id="r_20240814000040"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="에이치에스효성토요타">에이치에스효성토요타</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:22
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00939289', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="나래에너지서비스 기업개황 새창" >
+										나래에너지서비스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000038"  onclick="openReportViewer('20240814000038'); return false;" id="r_20240814000038"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="나래에너지서비스">나래에너지서비스</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:21
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01653322', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="우전지앤에프 기업개황 새창" >
+										우전지앤에프
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000036"  onclick="openReportViewer('20240814000036'); return false;" id="r_20240814000036"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="우전지앤에프">우전지앤에프</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:21
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01329957', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="국전약품 기업개황 새창" >
+										국전약품
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000035"  onclick="openReportViewer('20240814000035'); return false;" id="r_20240814000035"
+									title="반기보고서 공시뷰어 새창" >반기보고서
+									 (2024.06)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="국전약품">국전약품</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:19
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00117601', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="유안타증권 기업개황 새창" >
+										유안타증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000034"  onclick="openReportViewer('20240814000034'); return false;" id="r_20240814000034"
+									title="증권발행실적보고서 공시뷰어 새창" >증권발행실적보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="유안타증권">유안타증권</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:19
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00137234', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="모베이스전자 기업개황 새창" >
+										모베이스전자
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000031"  onclick="openReportViewer('20240814000031'); return false;" id="r_20240814000031"
+									title="반기보고서 공시뷰어 새창" >반기보고서
+									 (2024.06)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="모베이스전자">모베이스전자</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:19
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00944926', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="콘텐츠웨이브 기업개황 새창" >
+										콘텐츠웨이브
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000030"  onclick="openReportViewer('20240814000030'); return false;" id="r_20240814000030"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="콘텐츠웨이브">콘텐츠웨이브</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:17
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00650179', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="피엔알 기업개황 새창" >
+										피엔알
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000028"  onclick="openReportViewer('20240814000028'); return false;" id="r_20240814000028"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="피엔알">피엔알</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:16
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00617110', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="이네스트 기업개황 새창" >
+										이네스트
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000026"  onclick="openReportViewer('20240814000026'); return false;" id="r_20240814000026"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이네스트">이네스트</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:14
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00653918', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한진부산컨테이너터미널 기업개황 새창" >
+										한진부산컨테이너터미널
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000024"  onclick="openReportViewer('20240814000024'); return false;" id="r_20240814000024"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="한진부산컨테이너터미널">한진부산컨테이너터미널</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:14
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00657783', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="모델솔루션 기업개황 새창" >
+										모델솔루션
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000022"  onclick="openReportViewer('20240814000022'); return false;" id="r_20240814000022"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="모델솔루션">모델솔루션</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:13
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00874098', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="삼라마이다스 기업개황 새창" >
+										삼라마이다스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000021"  onclick="openReportViewer('20240814000021'); return false;" id="r_20240814000021"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="삼라마이다스">삼라마이다스</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:12
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00105961', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="LG이노텍 기업개황 새창" >
+										LG이노텍
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000020"  onclick="openReportViewer('20240814000020'); return false;" id="r_20240814000020"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="LG이노텍">LG이노텍</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:12
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01421334', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="이키즈랜드 기업개황 새창" >
+										이키즈랜드
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000019"  onclick="openReportViewer('20240814000019'); return false;" id="r_20240814000019"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이키즈랜드">이키즈랜드</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:12
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01569324', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="씨에이씨파트너스 기업개황 새창" >
+										씨에이씨파트너스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000018"  onclick="openReportViewer('20240814000018'); return false;" id="r_20240814000018"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="씨에이씨파트너스">씨에이씨파트너스</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:12
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00498001', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="모베이스 기업개황 새창" >
+										모베이스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000017"  onclick="openReportViewer('20240814000017'); return false;" id="r_20240814000017"
+									title="반기보고서 공시뷰어 새창" >반기보고서
+									 (2024.06)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="모베이스">모베이스</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:10
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01704699', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="이랜드인베스트 기업개황 새창" >
+										이랜드인베스트
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000015"  onclick="openReportViewer('20240814000015'); return false;" id="r_20240814000015"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이랜드인베스트">이랜드인베스트</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:10
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01629468', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="나진 기업개황 새창" >
+										나진
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000014"  onclick="openReportViewer('20240814000014'); return false;" id="r_20240814000014"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="나진">나진</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:09
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00680107', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="지알엠 기업개황 새창" >
+										지알엠
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000013"  onclick="openReportViewer('20240814000013'); return false;" id="r_20240814000013"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="지알엠">지알엠</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:07
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00447928', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="네오티스 기업개황 새창" >
+										네오티스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000012"  onclick="openReportViewer('20240814000012'); return false;" id="r_20240814000012"
+									title="반기보고서 공시뷰어 새창" >반기보고서
+									 (2024.06)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="네오티스">네오티스</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:07
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00820024', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이치엘클레무브 기업개황 새창" >
+										에이치엘클레무브
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000011"  onclick="openReportViewer('20240814000011'); return false;" id="r_20240814000011"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="에이치엘클레무브">에이치엘클레무브</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:06
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00930631', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="목포신항만운영 기업개황 새창" >
+										목포신항만운영
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000010"  onclick="openReportViewer('20240814000010'); return false;" id="r_20240814000010"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="목포신항만운영">목포신항만운영</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:04
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00650948', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="동석물류 기업개황 새창" >
+										동석물류
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000009"  onclick="openReportViewer('20240814000009'); return false;" id="r_20240814000009"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="동석물류">동석물류</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:02
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00930154', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="켄싱턴월드 기업개황 새창" >
+										켄싱턴월드
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000008"  onclick="openReportViewer('20240814000008'); return false;" id="r_20240814000008"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="켄싱턴월드">켄싱턴월드</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								08:00
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00657224', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="아이스크림미디어 기업개황 새창" >
+										아이스크림미디어
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000007"  onclick="openReportViewer('20240814000007'); return false;" id="r_20240814000007"
+									title="투자설명서 공시뷰어 새창" >투자설명서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="아이스크림미디어">아이스크림미디어</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:58
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00120191', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="키움투자자산운용 기업개황 새창" >
+										키움투자자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000006"  onclick="openReportViewer('20240814000006'); return false;" id="r_20240814000006"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="키움투자자산운용">키움투자자산운용</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:57
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01407893', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="이랜드이츠 기업개황 새창" >
+										이랜드이츠
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000005"  onclick="openReportViewer('20240814000005'); return false;" id="r_20240814000005"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이랜드이츠">이랜드이츠</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:56
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00808466', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="어업회사법인신의도천일염 기업개황 새창" >
+										어업회사법인신의도천일염
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000004"  onclick="openReportViewer('20240814000004'); return false;" id="r_20240814000004"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="어업회사법인신의도천일염">어업회사법인신의도천일염</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+						
+							
+							
+								
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:51
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00267058', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에스케이이엔에스 기업개황 새창" >
+										에스케이이엔에스
+									</a>
+								</span>
+								<a href="http://www.skens.com" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000003"  onclick="openReportViewer('20240814000003'); return false;" id="r_20240814000003"
+									title="반기보고서 공시뷰어 새창" >반기보고서
+									 (2024.06)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="에스케이이엔에스">에스케이이엔에스</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:51
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00234616', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="해비치컨트리클럽 기업개황 새창" >
+										해비치컨트리클럽
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000002"  onclick="openReportViewer('20240814000002'); return false;" id="r_20240814000002"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="해비치컨트리클럽">해비치컨트리클럽</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:40
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00413046', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="셀트리온 기업개황 새창" >
+										셀트리온
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814800002"  onclick="openReportViewer('20240814800002'); return false;" id="r_20240814800002"
+									title="투자판단관련주요경영사항(CTP55(코센틱스 바이오시밀러) 미국 임상 3상 시험계획 승인) 공시뷰어 새창" >투자판단관련주요경영사항
+									
+		  							(CTP55(코센틱스 바이오시밀러) 미국 임상 3상 시험계획 승인)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="셀트리온">셀트리온</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:38
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('01579002', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="로크미디어 기업개황 새창" >
+										로크미디어
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814000001"  onclick="openReportViewer('20240814000001'); return false;" id="r_20240814000001"
+									title="지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항 공시뷰어 새창" >지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="로크미디어">로크미디어</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:36
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00938721', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="필옵틱스 기업개황 새창" >
+										필옵틱스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240814900001"  onclick="openReportViewer('20240814900001'); return false;" id="r_20240814900001"
+									title="단일판매ㆍ공급계약체결 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>단일판매ㆍ공급계약체결
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="필옵틱스">필옵틱스</td>
+							<td>2024.08.14</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00104500', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="KB자산운용 기업개황 새창" >
+										KB자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240813100024"  onclick="openReportViewer('20240813100024'); return false;" id="r_20240813100024"
+									title="효력발생안내( 2024.8.7. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2024.8.7. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00104500', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="KB자산운용 기업개황 새창" >
+										KB자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240813100023"  onclick="openReportViewer('20240813100023'); return false;" id="r_20240813100023"
+									title="효력발생안내( 2024.8.7. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2024.8.7. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00104500', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="KB자산운용 기업개황 새창" >
+										KB자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240813100022"  onclick="openReportViewer('20240813100022'); return false;" id="r_20240813100022"
+									title="효력발생안내( 2024.8.7. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2024.8.7. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00104500', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="KB자산운용 기업개황 새창" >
+										KB자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240813100021"  onclick="openReportViewer('20240813100021'); return false;" id="r_20240813100021"
+									title="효력발생안내( 2024.8.7. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2024.8.7. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00104500', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="KB자산운용 기업개황 새창" >
+										KB자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240813100020"  onclick="openReportViewer('20240813100020'); return false;" id="r_20240813100020"
+									title="효력발생안내( 2024.8.7. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2024.8.7. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00104500', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="KB자산운용 기업개황 새창" >
+										KB자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240813100019"  onclick="openReportViewer('20240813100019'); return false;" id="r_20240813100019"
+									title="효력발생안내( 2024.8.7. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2024.8.7. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								07:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00104500', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="KB자산운용 기업개황 새창" >
+										KB자산운용
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20240813100018"  onclick="openReportViewer('20240813100018'); return false;" id="r_20240813100018"
+									title="효력발생안내( 2024.8.7. 제출 일괄신고서(집합투자증권-신탁형) ) 공시뷰어 새창" >효력발생안내
+									
+		  							( 2024.8.7. 제출 일괄신고서(집합투자증권-신탁형) )
+								</a>
+							</td>
+							<td class="tL ellipsis" title="금융감독원">금융감독원</td>
+							<td>2024.08.14</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+				</tbody>
+			
+			
+		
+		<input type="hidden" name="totalCnt" id="totalCnt" value="4904">
+	</table>
+</div>
+
+	<div class = "psWrap">
+		<div class="pageInfo">[48/50] [총 4,904건]</div>
+		
+		<div class="pageSkip">
+			<ul>
+				<li ><a href="javascript:search(1);" class="first">처음으로</a></li><li class="preview"><a href="javascript:search(40);" class="preview">이전</a></li><li><a href="javascript:search(41);">41</a></li><li><a href="javascript:search(42);">42</a></li><li><a href="javascript:search(43);">43</a></li><li><a href="javascript:search(44);">44</a></li><li><a href="javascript:search(45);">45</a></li><li><a href="javascript:search(46);">46</a></li><li><a href="javascript:search(47);">47</a></li><li class="on"><a onClick="javascript:void(0);">48</a></li><li><a href="javascript:search(49);">49</a></li><li><a href="javascript:search(50);">50</a></li><li ><a href="javascript:search(50);" class="next">다음 페이지</a></li><li ><a href="javascript:search(50);" class="last">끝 페이지</a></li>
+
+			</ul>
+		</div>
+	</div>
+
